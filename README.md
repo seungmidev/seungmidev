@@ -4,7 +4,6 @@
 ### About me
 👩‍💻 Working 6 years as a frontend markup developer in a digital web and e-commerce agency<br>
 🌱 Currently learning React, Vue and JavaScript<br>
-💕 Interested in clean code and UX<br>
 👀 looking to collaborate on frontend web apps in London
 
 ### Tech Stack
