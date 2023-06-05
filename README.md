@@ -1,5 +1,5 @@
 ## Hi there, I'm [Seungmi](https://github.com/seungmidev) 🙋‍♀️
-[![Linkedin Badge](https://img.shields.io/badge/-seungmidev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungmidev/)](https://www.linkedin.com/in/seungmidev/) [![Indeed Badge](https://img.shields.io/badge/-@seungmidev-11B48A?style=flat-square&labelColor=11B48A&logo=Vimeo&logoColor=white&link=https://velog.io/@seungmidev/)](https://velog.io/@seungmidev) [![Gmail Badge](https://img.shields.io/badge/-seungmilee.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungmilee.dev@gmail.com)](mailto:seungmilee.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-seungmidev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungmidev/)](https://www.linkedin.com/in/seungmidev/) [![Gmail Badge](https://img.shields.io/badge/-seungmilee.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungmilee.dev@gmail.com)](mailto:seungmilee.dev@gmail.com)
 
 ### About me
 👩‍💻 Working 6 years as a frontend markup developer in a digital web and e-commerce agency<br>
