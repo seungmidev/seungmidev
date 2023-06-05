@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-seungmidev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungmidev/)](https://www.linkedin.com/in/seungmidev/) [![Gmail Badge](https://img.shields.io/badge/-seungmilee.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungmilee.dev@gmail.com)](mailto:seungmilee.dev@gmail.com)
 
 ### About me
-👩‍💻 Working 6 years as a frontend markup developer in a digital web and e-commerce agency<br>
+👩‍💻 Working 5 years as a frontend developer in a digital marketing and e-commerce<br>
 🌱 Currently learning React, Vue and JavaScript<br>
 👀 looking to collaborate on frontend web apps in London
 
