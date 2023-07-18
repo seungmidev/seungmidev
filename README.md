@@ -3,7 +3,7 @@
 
 ### About me
 👩‍💻 Working 6 years as a frontend developer in digital marketing and e-commerce<br>
-🌱 Currently learning React, Vue, and JavaScript<br>
+🌱 Currently learning React and JavaScript<br>
 👀 looking to collaborate on frontend web apps in London
 
 ### Tech Stack
