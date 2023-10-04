@@ -2,9 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-seungmidev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungmidev/)](https://www.linkedin.com/in/seungmidev/) [![Gmail Badge](https://img.shields.io/badge/-seungmilee.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungmilee.dev@gmail.com)](mailto:seungmilee.dev@gmail.com)
 
 ### About me
-👩‍💻 Working 6 years as a frontend developer in digital marketing and e-commerce<br>
+👩‍💻 Working 6 years as a front-end developer in web agency, digital marketing, and e-commerce<br>
 🌱 Currently learning React and JavaScript<br>
-👀 looking to collaborate on frontend web apps in London
+👀 Looking for an opportunity to work as a front-end developer in London
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white)&nbsp;<br>
