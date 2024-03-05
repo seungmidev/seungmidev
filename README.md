@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-seungmidev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungmidev/)](https://www.linkedin.com/in/seungmidev/) [![Gmail Badge](https://img.shields.io/badge/-seungmilee.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungmilee.dev@gmail.com)](mailto:seungmilee.dev@gmail.com)
 
 ### About me
-👩‍💻 Working as a front-end developer in web agency, digital marketing, and e-commerce<br>
+👩‍💻 Working as a Front-end developer in web agency, digital marketing, and e-commerce<br>
 🌱 Currently learning React, Vue, JavaScript, and TypeScript<br>
 
 ### Tech Stack
