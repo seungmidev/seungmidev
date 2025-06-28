@@ -32,7 +32,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
 ![Zeplin](https://aleen42.github.io/badges/src/zeplin.svg)&nbsp;
 
-#### Cowork Tools
+### Cowork Tools
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)&nbsp;
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)&nbsp;
