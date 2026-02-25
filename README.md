@@ -3,13 +3,13 @@
 
 ### About
 👩‍💻 I’m a front-end developer with 6+ years of experience specializing in React. I build scalable, responsive web applications across diverse industries, including web agencies, digital marketing, e-commerce, and education platforms.<br>
-<br><br>
+<br>
 ⭐️ Professional Strengths<br>
 • Driving measurable usability improvements through research and iteration<br>
 • Amplifying team impact through knowledge sharing and constructive feedback<br>
 • Resolving critical issues through structured root cause analysis<br>
 • Shaping practical AI adoption strategies to enhance development workflows<br>
-<br><br>
+<br>
 🚀 Open to collaborating on innovative products that push technology and user experience forward.<br>
 
 ### Tech Stack
