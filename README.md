@@ -1,9 +1,16 @@
 ## Hi there, I'm [Seungmi](https://github.com/seungmidev) 🙋‍♀️
 [![Linkedin Badge](https://img.shields.io/badge/-seungmidev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungmidev/)](https://www.linkedin.com/in/seungmidev/) [![Gmail Badge](https://img.shields.io/badge/-seungmilee.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungmilee.dev@gmail.com)](mailto:seungmilee.dev@gmail.com)
 
-### About me
-👩‍💻 Working as a Front-end developer in a web agency, digital marketing, e-commerce, and education<br>
-🌱 Currently learning React, NextJs, and TypeScript<br>
+### About
+👩‍💻 I’m a front-end developer with 6+ years of experience specializing in React. I build scalable, responsive web applications across diverse industries, including web agencies, digital marketing, e-commerce, and education platforms.<br>
+<br><br>
+⭐️ Professional Strengths<br>
+• Driving measurable usability improvements through research and iteration<br>
+• Amplifying team impact through knowledge sharing and constructive feedback<br>
+• Resolving critical issues through structured root cause analysis<br>
+• Shaping practical AI adoption strategies to enhance development workflows<br>
+<br><br>
+🚀 Open to collaborating on innovative products that push technology and user experience forward.<br>
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white"/>&nbsp;
